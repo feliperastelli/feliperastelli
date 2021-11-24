@@ -20,6 +20,23 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 
 # Contacts
 
+<a href="https://github.com/feliperastelli" alt="github" target="_blank">
+
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+
+</a>
+
+<a href="https://www.linkedin.com/in/feliperastelli10" alt="linkedin" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
+
+<a href="https://wa.me/5519991962574" alt="WhatsApp" target="_blank">
+
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/>
+
+</a>
 
 # Data Science Projects
 
