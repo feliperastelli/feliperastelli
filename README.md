@@ -1,12 +1,12 @@
-# Felipe Rastelli - About Me
+# print ("Hello, World !!")
 
-# Data Science Projects Portfolio
+## Data Science Projects Portfolio
 
 Welcome to my project portfolio. You will be able to observe and evaluate my completed Data Science projects and those currently under development.
 
 In addition to demonstrating the completion of projects, I aim to share my skills in solving business problems using Data Science and all its tools.In addition to demonstrating the completion of projects, I aim to share my skills in solving business problems using Data Science and all its tools.
 
-# About Me
+## About Me
 
 I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
 
@@ -18,7 +18,12 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 - **Machine Learning Modeling:** Regression
 - **Machine Learning Deployment:** Heroku
 
-# Contacts
+## Skills
+
+![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![image](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![image]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![image]( https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![image]( https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)     
+ 
+## Contacts
 
 <a href="https://github.com/feliperastelli" alt="github" target="_blank">
 
@@ -38,7 +43,7 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 
 </a>
 
-# Data Science Projects
+## Data Science Projects
 
 **House Rocket Insights Project**
 **Rossmann Stores Sales Prediction**
