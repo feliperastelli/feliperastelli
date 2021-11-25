@@ -8,6 +8,10 @@ In addition to demonstrating the completion of projects, I aim to share my skill
 
 I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
 
+- Data Science Jr and member of [Comunidade DS](https://www.comunidadedatascience.com/)
+- Bachelor of Accounting Sciences
+- Mechatronics Technician
+
 ## Tech Skills
 
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
