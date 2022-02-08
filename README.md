@@ -41,8 +41,10 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 
 ## Data Science Projects
 
-**House Rocket  - Insights Project**
-**Rossmann Stores Sales Prediction - Regression Project**
-**Health Insurance Cross Sell- LTR Project**
+**House Rocket  - Insights Project** - https://github.com/feliperastelli/FR-Projeto-Insight-House-Rocket
+
+**Rossmann Stores Sales Prediction - Regression Project** - https://github.com/feliperastelli/FR-Rossmann_Sales_Model
+
+**Health Insurance Cross Sell- LTR Project** - https://github.com/feliperastelli/FR_Health_Insurance_Cross_Sell
 
 
